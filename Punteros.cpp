@@ -7,7 +7,7 @@
  *
  *        Created:  2019-08-19
  *
- *         Author:  Maikol Guzman Alan mikeguzman@gmail.com
+ *         Author:  Gaston Berdaso
  *   Organization:  Universidad Nacional de Costa Rica
  *
  * =====================================================================================
@@ -95,4 +95,13 @@ void Punteros::imprimirCalculoAlCuboReferenciaReferencia() {
     numero = numeroAlCuboReferencia(numero);
 
     std::cout << "\n\tEl resulado al cubo de la variable [ numero ] es: " << numero << std::endl;
+}
+
+void Punteros::imprimirCalculoRaizReferenciaValor()
+{
+}
+
+
+void Punteros::imprimirCalculoRaizValor()
+{
 }

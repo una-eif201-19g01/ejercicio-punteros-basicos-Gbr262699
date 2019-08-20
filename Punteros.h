@@ -7,7 +7,7 @@
  *
  *        Created:  2019-08-18
  *
- *         Author:  Maikol Guzman Alan mikeguzman@gmail.com
+ *         Author:  Gaston Berdasoo romero
  *   Organization:  Universidad Nacional de Costa Rica
  *
  * =====================================================================================
@@ -29,6 +29,8 @@ public:
     static void imprimirCalculoAlCuboReferenciaValor();
     static void imprimirCalculoAlCuboReferenciaPuntero();
     static void imprimirCalculoAlCuboReferenciaReferencia();
+	static void imprimirCalculoRaizReferenciaValor();
+	static void imprimirCalculoRaizValor();
 };
 
 
